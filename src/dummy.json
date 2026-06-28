@@ -1,0 +1,142 @@
+{
+  "about": {
+    "name": "Sangam Mainali",
+    "title": "Full Stack MERN Developer",
+    "subTitle": "B.Sc. CSIT Student | Passionate Full Stack Developer building modern web applications",
+    "description": "Passionate Full Stack MERN Developer and B.Sc. CSIT student currently in the 8th semester at Prithvi Narayan Campus. Strong foundation in modern web technologies with hands-on experience building full-stack applications using React, Node.js, Express, MongoDB, and PostgreSQL. Eager to contribute to real-world software development while continuously learning modern technologies and best development practices.",
+    "quote": "Write clean, maintainable, and scalable code",
+    "exp_year": "0",
+    "address": "Pokhara, Nepal",
+    "some_total": "8",
+    "phoneNumber": "9861932038",
+    "contactEmail": "sangammainali1@gmail.com",
+    "avatar": {
+      "public_id": "avatar/default",
+      "url": "/profile.png"
+    },
+    "alternateAvatars": []
+  },
+  "usageMetrics": {
+    "visits": 0,
+    "downloads": 0
+  },
+  "_id": "sangam001",
+  "username": "sangam",
+  "email": "sangammainali1@gmail.com",
+  "role": "admin",
+  "timeline": [
+    {
+      "company_name": "Prithvi Narayan Campus",
+      "summary": "Pursuing Bachelor of Science in Computer Science and Information Technology (B.Sc. CSIT).",
+      "sequence": 2,
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "jobTitle": "B.Sc. CSIT Student",
+      "jobLocation": "Pokhara, Nepal",
+      "bulletPoints": [
+        "Currently in 8th semester",
+        "Studying computer science fundamentals, data structures, algorithms, and modern web technologies",
+        "Building full-stack applications using MERN stack and PostgreSQL"
+      ],
+      "forEducation": true,
+      "enabled": true,
+      "_id": "edu001"
+    },
+    {
+      "company_name": "Open to Internship Opportunities",
+      "summary": "Currently building real-world full-stack applications to strengthen practical development skills. Continuously learning backend architecture, database design, authentication, and deployment.",
+      "sequence": 1,
+      "startDate": "2025-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T00:00:00.000Z",
+      "jobTitle": "Looking for Full Stack MERN Internship",
+      "jobLocation": "Remote",
+      "bulletPoints": [
+        "Building real-world full-stack applications to strengthen practical development skills",
+        "Continuously learning backend architecture, database design, authentication, and deployment",
+        "Passionate about writing clean, maintainable, and scalable code"
+      ],
+      "forEducation": false,
+      "enabled": true,
+      "_id": "exp001"
+    }
+  ],
+  "skills": [
+    { "enabled": true, "name": "HTML5", "sequence": 1, "percentage": 90, "image": { "public_id": "", "url": "" }, "_id": "sk001" },
+    { "enabled": true, "name": "CSS3", "sequence": 2, "percentage": 85, "image": { "public_id": "", "url": "" }, "_id": "sk002" },
+    { "enabled": true, "name": "JavaScript", "sequence": 3, "percentage": 85, "image": { "public_id": "", "url": "" }, "_id": "sk003" },
+    { "enabled": true, "name": "TypeScript", "sequence": 4, "percentage": 70, "image": { "public_id": "", "url": "" }, "_id": "sk004" },
+    { "enabled": true, "name": "React.js", "sequence": 5, "percentage": 80, "image": { "public_id": "", "url": "" }, "_id": "sk005" },
+    { "enabled": true, "name": "Node.js", "sequence": 6, "percentage": 75, "image": { "public_id": "", "url": "" }, "_id": "sk006" },
+    { "enabled": true, "name": "Express.js", "sequence": 7, "percentage": 75, "image": { "public_id": "", "url": "" }, "_id": "sk007" },
+    { "enabled": true, "name": "MongoDB", "sequence": 8, "percentage": 70, "image": { "public_id": "", "url": "" }, "_id": "sk008" },
+    { "enabled": true, "name": "PostgreSQL", "sequence": 9, "percentage": 65, "image": { "public_id": "", "url": "" }, "_id": "sk009" },
+    { "enabled": true, "name": "Git", "sequence": 10, "percentage": 80, "image": { "public_id": "", "url": "" }, "_id": "sk010" },
+    { "enabled": true, "name": "GitHub", "sequence": 11, "percentage": 80, "image": { "public_id": "", "url": "" }, "_id": "sk011" },
+    { "enabled": true, "name": "REST APIs", "sequence": 12, "percentage": 75, "image": { "public_id": "", "url": "" }, "_id": "sk012" },
+    { "enabled": true, "name": "JWT", "sequence": 13, "percentage": 70, "image": { "public_id": "", "url": "" }, "_id": "sk013" }
+  ],
+  "youtube": [],
+  "projects": [
+    {
+      "liveurl": "https://gyan-sagar-nine.vercel.app",
+      "githuburl": "#",
+      "title": "GyanSagar",
+      "sequence": 1,
+      "image": {
+        "public_id": "project/gyan_sagar",
+        "url": "/project/gyan_sagar.png"
+      },
+      "description": "A full-stack Learning Management System (LMS) built with the MERN stack and PostgreSQL. Features include authentication, course management, student enrollment, and RESTful APIs for managing users, courses, and learning resources.",
+      "techStack": ["React", "Node.js", "Express", "PostgreSQL"],
+      "_id": "proj001",
+      "enabled": true
+    }
+  ],
+  "social_handles": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sangam-mainali-a687a9425/",
+      "image": { "public_id": "", "url": "" },
+      "enabled": true,
+      "_id": "soc001"
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/sangammainali11",
+      "image": { "public_id": "", "url": "" },
+      "enabled": true,
+      "_id": "soc002"
+    }
+  ],
+  "services": [
+    {
+      "name": "Web Development",
+      "charge": "Let's Talk",
+      "desc": "Building responsive and modern web applications using React, Node.js, and PostgreSQL.",
+      "enabled": true,
+      "_id": "svc001",
+      "image": { "public_id": "", "url": "" }
+    },
+    {
+      "name": "Full Stack Development",
+      "charge": "Let's Talk",
+      "desc": "End-to-end development from database design to frontend implementation using the MERN stack.",
+      "enabled": true,
+      "_id": "svc002",
+      "image": { "public_id": "", "url": "" }
+    },
+    {
+      "name": "API Development",
+      "charge": "Let's Talk",
+      "desc": "Designing and building RESTful APIs with authentication, authorization, and database integration.",
+      "enabled": true,
+      "_id": "svc003",
+      "image": { "public_id": "", "url": "" }
+    }
+  ],
+  "testimonials": [],
+  "createdAt": "2025-01-01T00:00:00.000Z",
+  "updatedAt": "2025-07-30T00:00:00.000Z",
+  "__v": 0,
+  "refreshToken": ""
+}
