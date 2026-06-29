@@ -1,0 +1,36 @@
+Sangam Mainali
+9861932038 | sangammainali1@gmail.com | LinkedIn | GitHub
+
+SUMMARY
+Passionate Full Stack MERN Developer and B.Sc. CSIT student currently in the 8th semester at Prithvi Narayan Campus.
+Strong foundation in modern web technologies with hands-on experience building full-stack applications using React,
+Node.js, Express, MongoDB, and PostgreSQL. Eager to contribute to real-world software development while continuously
+learning modern technologies and best development practices.
+TECHNICAL SKILLS
+Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript
+Frontend: React.js, Responsive Web Design
+Backend: Node.js, Express.js
+Databases: MongoDB, PostgreSQL
+Tools: Git, GitHub, REST APIs
+Concepts: Authentication (JWT), CRUD Applications, API Development, Responsive Design
+PROJECTS
+GyanSagar - Learning Management System 2025 – Present
+Full Stack MERN Project React, Node.js, Express, PostgreSQL
+• Developed a full-stack Learning Management System (LMS) using the MERN stack and PostgreSQL.
+• Implemented authentication, course management, and student enrollment features.
+• Built RESTful APIs for managing users, courses, and learning resources.
+• Designed responsive user interfaces using React and modern frontend practices.
+• Used Git and GitHub for version control and collaborative development.
+EXPERIENCE
+Looking for Full Stack MERN Internship Present
+Open to Internship Opportunities
+• Currently building real-world full-stack applications to strengthen practical development skills.
+• Continuously learning backend architecture, database design, authentication, and deployment.
+• Passionate about writing clean, maintainable, and scalable code.
+EDUCATION
+Prithvi Narayan Campus Pokhara, Nepal
+Bachelor of Science in Computer Science and Information Technology (B.Sc. CSIT) Currently in 8th Semester
+CERTIFICATIONS
+• Responsive Web Design – freeCodeCamp
+• JavaScript Algorithms and Data Structures – freeCodeCamp
+• Front End Development Libraries – freeCodeCamp
