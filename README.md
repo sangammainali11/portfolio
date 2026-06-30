@@ -1,141 +1,47 @@
-# Portfolio Project
+# Portfolio
 
-![Modern Portfolio Website](https://github.com/user-attachments/assets/4f82669c-9a5a-4761-a927-2f54f0f64169)
+![Portfolio Preview](./public/preview.png)
 
-## Overview
+A modern, responsive portfolio website built with Next.js 16, React 19, and Tailwind CSS. Features smooth animations, project showcases, skills section, contact form, and more.
 
-This project is a portfolio website template showcasing skills, projects, and experience. It is built using modern web technologies and follows best practices for performance and accessibility.
+## Features
 
-## ✨ Features
+- Responsive design optimized for all devices
+- Interactive animations using Framer Motion
+- SEO optimized with Next.js metadata
+- Contact form with email integration
+- Project filtering and categorization
+- Custom cursor and loader animations
+- TypeScript for type safety
 
-- **Responsive Design**: Optimized for various screen sizes and devices.
-- **Interactive Animations**: Smooth and engaging animations using Framer Motion.
-- **SEO Optimized**: Built with best practices for search engine optimization.
-- **Fast Performance**: Optimized for fast loading times and performance.
-- **Accessible**: Follows accessibility best practices to ensure a great experience for all users.
+## Tech Stack
 
-## 🛠️ Tech Stack
-
-- **Frontend Framework**: Next.js 15
+- **Framework**: Next.js 16
 - **UI Library**: React 19
-- **Type Safety**: TypeScript
+- **Language**: TypeScript
 - **Styling**: Tailwind CSS
-- **Animations**: Framer Motion
-- **Code Quality**: ESLint & Prettier
+- **Animations**: Framer Motion, GSAP
+- **Icons**: Lucide React, React Icons
+- **Email**: Nodemailer
 
-## 📁 Project Structure
+## Getting Started
 
-```
-/the-portfolio
-├── .next/
-│   ├── cache/
-│   ├── server/
-│   └── static/
-├── public/
-├── src/
-│   ├── app/
-│   ├── components/
-│   ├── utils/
-│   └── dummy.json
-├── .eslintrc.json
-├── .env
-├── .gitignore
-├── next-env.d.ts
-├── next.config.mjs
-├── package.json
-├── postcss.config.js
-├── README.md
-├── tailwind.config.ts
-└── tsconfig.json
+```bash
+git clone https://github.com/sangammainali11/portfolio.git
+cd portfolio
+npm install
+npm run dev
 ```
 
-## Project Details
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-### Technologies Used
+## Build
 
-- **Next.js**: A React framework for server-side rendering and static site generation.
-- **React**: A JavaScript library for building user interfaces.
-- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
-- **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
+```bash
+npm run build
+npm start
+```
 
-### Key Files and Directories
+## License
 
-- **`app`**: Contains the main application components.
-- **`components`**: Contains reusable UI components.
-- **`utils`**: Contains utility functions.
-- **`src/dummy.json`**: Contains dummy data for the portfolio.
-
-### Configuration Files
-
-- **`tailwind.config.ts`**: Tailwind CSS configuration.
-- **`tsconfig.json`**: TypeScript configuration.
-- **`next.config.mjs`**: Next.js configuration.
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js 18+ installed
-- pnpm or npm package manager
-- Git
-
-### Installation Steps
-
-1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/tehseen01/the-portfolio.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```sh
-   cd the-portfolio
-   ```
-
-3. Install the dependencies:
-
-   ```sh
-   npm install
-   ```
-
-4. Start the development server:
-
-   ```sh
-   npm start
-   ```
-
-5. Open [http://localhost:3000](http://localhost:3000) in your browser
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/amazing-feature`
-3. Commit your changes: `git commit -m 'Add amazing feature'`
-4. Push to the branch: `git push origin feature/amazing-feature`
-5. Open a Pull Request
-
-### Code Style Guidelines
-
-- Follow the ESLint configuration
-- Write meaningful commit messages
-- Add appropriate documentation
-- Ensure all tests pass
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-For questions or feedback, reach out through:
-
-- Email: tehseen.type@gmail.com
-- Twitter: [@tehseen_type](https://twitter.com/tehseen_type)
-- LinkedIn: [Mohd Tehseen](https://linkedin.com/in/tehseen.01)
-
----
-
-Built with ❤️ by [Mohd Tehseen]
+MIT
