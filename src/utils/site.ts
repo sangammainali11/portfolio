@@ -6,7 +6,7 @@ export const siteConfig = {
   description:
     "Personal portfolio website showcasing Sangam Mainali's projects and skills as a full stack developer",
   url: site_url,
-  ogImage: `${site_url}/profile.png`,
+  ogImage: `${site_url}/profile.jpeg`,
   links: {
     twitter: "https://github.com/sangammainali11",
     github: "https://github.com/sangammainali11",

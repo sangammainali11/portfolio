@@ -14,13 +14,11 @@ export function constructMetadata({
   title = siteConfig.name,
   description = siteConfig.description,
   image = siteConfig.ogImage,
-  icons = "/profile.png",
   noIndex = false,
 }: {
   title?: string;
   description?: string;
   image?: string;
-  icons?: string;
   noIndex?: boolean;
 } = {}): Metadata {
   return {
@@ -55,7 +53,11 @@ export function constructMetadata({
       images: [image],
       creator: "@sangammainali11",
     },
-    icons,
+    icons: {
+      icon: "/favicon.png",
+      shortcut: "/favicon.png",
+      apple: "/favicon.png",
+    },
     metadataBase: new URL(siteConfig.url),
     manifest: `${siteConfig.url}/site.webmanifest`,
     ...(noIndex && {
