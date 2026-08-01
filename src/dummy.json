@@ -1,7 +1,7 @@
 {
   "about": {
     "name": "Sangam Mainali",
-    "title": "Full Stack MERN Developer",
+    "title": "Full Stack Developer",
     "subTitle": "B.Sc. CSIT Student | Passionate Full Stack Developer building modern web applications",
     "description": "Passionate Full Stack MERN Developer and B.Sc. CSIT student currently in the 8th semester at Prithvi Narayan Campus. Strong foundation in modern web technologies with hands-on experience building full-stack applications using React, Node.js, Express, MongoDB, and PostgreSQL. Eager to contribute to real-world software development while continuously learning modern technologies and best development practices.",
     "quote": "Write clean, maintainable, and scalable code",
@@ -89,6 +89,34 @@
       "description": "A full-stack Learning Management System (LMS) built with the MERN stack and PostgreSQL. Features include authentication, course management, student enrollment, and RESTful APIs for managing users, courses, and learning resources.",
       "techStack": ["React", "Node.js", "Express", "PostgreSQL"],
       "_id": "proj001",
+      "enabled": true
+    },
+    {
+      "liveurl": "http://json.sangammainali.com.np/",
+      "githuburl": "https://github.com/sangammainali11/sangamjson",
+      "title": "SangamJSON",
+      "sequence": 2,
+      "image": {
+        "public_id": "project/sangam_json",
+        "url": "/project/sangam_json.png"
+      },
+      "description": "A powerful feature-rich JSON viewer, editor, formatter, and visualizer built with Next.js 15. Features include formatting and validation, JSONPath queries, tree and network graph visualization, syntax highlighting with Monaco Editor, and data transformation.",
+      "techStack": ["Next.js", "TypeScript", "TailwindCSS", "Monaco Editor"],
+      "_id": "proj002",
+      "enabled": true
+    },
+    {
+      "liveurl": "http://blog.sangammainali.com.np/",
+      "githuburl": "https://github.com/sangammainali11/kuraharu",
+      "title": "KuraHaru",
+      "sequence": 3,
+      "image": {
+        "public_id": "project/kuraharu",
+        "url": "/project/kuraharu.png"
+      },
+      "description": "A full-stack Blog CMS built with Next.js, Supabase, and shadcn/ui. Features Supabase Auth with role-based access control, a WYSIWYG editor, draft/publish workflow, newsletter subscriptions, an AI writing assistant, and a headless REST API.",
+      "techStack": ["Next.js", "Supabase", "PostgreSQL", "TailwindCSS"],
+      "_id": "proj003",
       "enabled": true
     }
   ],
